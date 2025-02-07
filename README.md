@@ -1,4 +1,3 @@
-![Header](https://raw.githubusercontent.com/codex7teen/codex7teen/main/assets/banner.png)
 
 # 👋 Hey there, I'm Dennis Johnson! 🚀
 
