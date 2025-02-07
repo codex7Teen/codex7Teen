@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm a self-taught **Flutter Developer** who thrives on bui
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dennis-johnson-flutter-developer/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourhandle](https://www.instagram.com/denniz_jhnsn?igsh=MWFqdmc5b2FpcHA5)))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/dennis-johnson-flutter-developer/)) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourhandle](https://www.instagram.com/denniz_jhnsn?igsh=MWFqdmc5b2FpcHA5))
 
 ---
 
